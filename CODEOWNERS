@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @manik-dev-sudo
+/src/backend/database.py      @manik-dev-sudo
+/src/backend/routers/auth.py  @manik-dev-sudo
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @manik-dev-sudo
